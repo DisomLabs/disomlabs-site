@@ -1,10 +1,10 @@
-# Disom Labs
+# Hansda Techs
 
 Building open-source technology for language innovation, cybersecurity research, and digital empowerment.
 
 ## About
 
-Disom Labs is a technology research initiative focused on creating innovative solutions for local languages, cybersecurity, and digital accessibility.
+Hansda Techs is a technology research initiative focused on creating innovative solutions for local languages, cybersecurity, and digital accessibility.
 
 ## Projects
 
@@ -36,4 +36,4 @@ Shibnath Hansda
 
 ---
 
-© Disom Labs
+© Hansda Techs
