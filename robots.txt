@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://disomlabs.netlify.app/sitemap.xml
+Sitemap: https://hansdatechs.netlify.app/sitemap.xml
